@@ -13,13 +13,13 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Xuanrong Pang
-  tagline: Developer. Designer
+  tagline: while there is life, there is hope.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: @40e5bGjIIBjuwFK
+    #twitter: Percy
     github:  pangxuanrong
     #linkedIn: in/thelehhman
     rss: rss
