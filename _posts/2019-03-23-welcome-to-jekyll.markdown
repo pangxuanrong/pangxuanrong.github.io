@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
+title:  "Personal resume"
 date:   2019-03-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-At present, I am studying for a master's degree in computer science and technology in Shenzhen University
+Currently, I am studying for a master's degree in computer science and technology at Shenzhen University. My research interests include recommendation systems, clustering, and image retrieval.
