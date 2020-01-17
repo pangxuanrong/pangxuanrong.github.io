@@ -16,7 +16,7 @@ plainwhite:
   tagline: Bad times make a good man.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
-
+  resume: Currently, I am studying for a master’s degree in computer science and technology at Shenzhen University. My research interests include recommendation systems, clustering, and image retrieval.
   # generate social links in footer
   social_links:
     #twitter: thelehhman
