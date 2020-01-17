@@ -11,6 +11,8 @@
           <a href="/">{{ site.plainwhite.name }}</a>
         </h2>
         <p class="tagline">{{ site.plainwhite.tagline }}</p>
+		
+		
         <ul class="social">
           {%- if site.plainwhite.social_links.github -%}
             <a href="https://github.com/{{ site.plainwhite.social_links.github }}">
@@ -34,6 +36,10 @@
             </a>
           {%- endif -%}
         </ul>
+		<div style="width:280px, margin-bottom:20px">
+			<div style="font-weight:bold;text-align:center"> Personal Resume</div>
+			<div style="width:280px;text-align:justify">{{ site.plainwhite.resume }}</div>
+		</div>
 
         {%- if site.plainwhite.navigation -%}
           <nav class="navigation">
@@ -50,7 +56,7 @@
         <p>&copy;
           {{ "now" | date: "%Y" }}</p>
       </section>
-      <section class="content">
+      <section class="content" style="padding-left:40px">
         {{ content }}
       </section>
     </main>
